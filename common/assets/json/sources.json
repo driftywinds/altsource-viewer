@@ -1,12 +1,10 @@
 [
-    "https://therealfoxster.github.io/altsource/apps.json",
-    "https://qnblackcat.github.io/AltStore/apps.json",
+    "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/refs/heads/master/AltStore/nyx.json",
     "https://alt.getutm.app",
     "https://flyinghead.github.io/flycast-builds/altstore.json",
-    "https://provenance-emu.com/apps.json",
+    "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/refs/heads/master/AltStore/theta.json",
     "https://quarksources.github.io/dist/quantumsource.min.json",
     "https://quarksources.github.io/dist/quantumsource%2B%2B.min.json",
     "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
-    "https://raw.githubusercontent.com/whoeevee/EeveeSpotify/swift/Repositories/repo.altstore.json",
-    "https://raw.githubusercontent.com/YTLitePlus/YTLitePlus-Altstore/main/apps.json"
+    "https://raw.githubusercontent.com/whoeevee/EeveeSpotify/swift/Repositories/repo.altstore.json"
 ]
